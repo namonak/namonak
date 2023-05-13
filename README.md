@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namonak&show_icons=true&theme=dracula)
+
+![Malibin's language top](https://github-readme-stats.vercel.app/api/top-langs/?username=namonak&layout=compact&theme=dracula&?exclude_repo=simulation_basic,junior-recruit-scheduler)
+
 <!--
 **namonak/namonak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
