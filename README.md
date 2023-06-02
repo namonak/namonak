@@ -1,7 +1,7 @@
 ## Hello there 👋
 
-✨ I'm currently working on KT GiGA Genie Android TV's TVCore service</br>
-🌱 I’m currently learning Clean Code, Design Pattern</br>
+✨ I'm currently working on the TVCore service for KT GiGA Genie Android TV</br>
+🌱 I’m currently studying Clean Code, Design Pattern, Test-driven development.</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namonak&show_icons=true&theme=dracula)
 
